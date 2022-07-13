@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+#cta {
+  min-height: 400px;
+}
+
+.metric-logo {
+  width: 100%;
+  max-width: 600px;
+}
